@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>闺蜜时光</title>
+  
+  <subtitle>——Record the past and the future</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://zclsyp.github.io/"/>
+  <updated>2020-07-09T01:40:06.544Z</updated>
+  <id>http://zclsyp.github.io/</id>
+  
+  <author>
+    <name>琳</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://zclsyp.github.io/2020/070916107.html"/>
+    <id>http://zclsyp.github.io/2020/070916107.html</id>
+    <published>2020-07-09T01:40:06.544Z</published>
+    <updated>2020-07-09T01:40:06.544Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
