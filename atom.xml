@@ -5,9 +5,9 @@
   <subtitle>Record the past and the future</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://zclsyp.github.io/"/>
+  <link href="http://zclsyp.xyz/"/>
   <updated>2020-07-09T02:06:33.768Z</updated>
-  <id>http://zclsyp.github.io/</id>
+  <id>http://zclsyp.xyz/</id>
   
   <author>
     <name>琳</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://zclsyp.github.io/2020/070916107.html"/>
-    <id>http://zclsyp.github.io/2020/070916107.html</id>
+    <link href="http://zclsyp.xyz/2020/070916107.html"/>
+    <id>http://zclsyp.xyz/2020/070916107.html</id>
     <published>2020-07-09T01:40:06.544Z</published>
     <updated>2020-07-09T02:06:33.768Z</updated>
     
@@ -36,7 +36,7 @@
     </summary>
     
     
-      <category term="uncategorized" scheme="http://zclsyp.github.io/categories/uncategorized/"/>
+      <category term="uncategorized" scheme="http://zclsyp.xyz/categories/uncategorized/"/>
     
     
   </entry>
