@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zclsyp.xyz/"/>
-  <updated>2020-07-09T09:55:39.868Z</updated>
+  <updated>2020-07-09T09:57:06.390Z</updated>
   <id>http://zclsyp.xyz/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://zclsyp.xyz/2020/070930210.html"/>
     <id>http://zclsyp.xyz/2020/070930210.html</id>
     <published>2020-07-09T07:00:00.000Z</published>
-    <updated>2020-07-09T09:55:39.868Z</updated>
+    <updated>2020-07-09T09:57:06.390Z</updated>
     
     <summary type="html">
     
@@ -36,6 +36,8 @@
     
     </summary>
     
+    
+      <category term="uncategorized" scheme="http://zclsyp.xyz/categories/uncategorized/"/>
     
     
   </entry>
