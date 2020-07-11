@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zclsyp.xyz/"/>
-  <updated>2020-07-11T03:08:10.927Z</updated>
+  <updated>2020-07-11T03:18:49.310Z</updated>
   <id>http://zclsyp.xyz/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://zclsyp.xyz/2020/071115430.html"/>
     <id>http://zclsyp.xyz/2020/071115430.html</id>
     <published>2020-07-11T01:30:00.000Z</published>
-    <updated>2020-07-11T03:08:10.927Z</updated>
+    <updated>2020-07-11T03:18:49.310Z</updated>
     
     <summary type="html">
     
@@ -29,15 +29,14 @@
       
         
         
-          &lt;p&gt;团子今天有空不？我想要抱抱。&lt;/p&gt;
-&lt;h3
+          &lt;p&gt;团子今天有空不？我想要抱抱。&lt;br&gt;虽然算不上是失恋，也算不上难过，本来只是打算写篇心情随笔记录一下，但写着写着还是觉得有点难受，毕竟从在项目上的聊天语音视频到换工作去合肥后的见面再到偶尔日常聊天，虽然一直以来聊天也只是偶尔聊聊，见面之前我都没有主动聊天过，因为知道网恋在一
         
       
     
     </summary>
     
     
-      <category term="mood" scheme="http://zclsyp.xyz/categories/mood/"/>
+      <category term="Mood" scheme="http://zclsyp.xyz/categories/Mood/"/>
     
     
   </entry>
@@ -47,7 +46,7 @@
     <link href="http://zclsyp.xyz/2020/070930210.html"/>
     <id>http://zclsyp.xyz/2020/070930210.html</id>
     <published>2020-07-09T07:00:00.000Z</published>
-    <updated>2020-07-09T09:57:06.390Z</updated>
+    <updated>2020-07-11T03:18:52.701Z</updated>
     
     <summary type="html">
     
@@ -63,32 +62,7 @@
     </summary>
     
     
-      <category term="uncategorized" scheme="http://zclsyp.xyz/categories/uncategorized/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://zclsyp.xyz/2020/070916107.html"/>
-    <id>http://zclsyp.xyz/2020/070916107.html</id>
-    <published>2020-07-09T01:40:06.544Z</published>
-    <updated>2020-07-09T06:42:20.738Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="uncategorized" scheme="http://zclsyp.xyz/categories/uncategorized/"/>
+      <category term="Introduction" scheme="http://zclsyp.xyz/categories/Introduction/"/>
     
     
   </entry>
