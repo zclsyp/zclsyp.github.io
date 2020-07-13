@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zclsyp.xyz/"/>
-  <updated>2020-07-11T03:18:49.310Z</updated>
+  <updated>2020-07-13T03:36:51.584Z</updated>
   <id>http://zclsyp.xyz/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://zclsyp.xyz/2020/071115430.html"/>
     <id>http://zclsyp.xyz/2020/071115430.html</id>
     <published>2020-07-11T01:30:00.000Z</published>
-    <updated>2020-07-11T03:18:49.310Z</updated>
+    <updated>2020-07-13T03:36:51.584Z</updated>
     
     <summary type="html">
     
@@ -39,6 +39,8 @@
       <category term="Mood" scheme="http://zclsyp.xyz/categories/Mood/"/>
     
     
+      <category term="心情" scheme="http://zclsyp.xyz/tags/%E5%BF%83%E6%83%85/"/>
+    
   </entry>
   
   <entry>
@@ -46,7 +48,7 @@
     <link href="http://zclsyp.xyz/2020/070930210.html"/>
     <id>http://zclsyp.xyz/2020/070930210.html</id>
     <published>2020-07-09T07:00:00.000Z</published>
-    <updated>2020-07-11T03:18:52.701Z</updated>
+    <updated>2020-07-13T03:36:54.439Z</updated>
     
     <summary type="html">
     
@@ -64,6 +66,8 @@
     
       <category term="Introduction" scheme="http://zclsyp.xyz/categories/Introduction/"/>
     
+    
+      <category term="简介" scheme="http://zclsyp.xyz/tags/%E7%AE%80%E4%BB%8B/"/>
     
   </entry>
   
